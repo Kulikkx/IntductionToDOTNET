@@ -49,7 +49,7 @@ namespace DataTypes
             #endregion
 
             double a = 12.56;
-            Console.WriteLine(a * 100000);
+            Console.WriteLine(a * 10000);
 #endif
 #if LITERALS
 //...
