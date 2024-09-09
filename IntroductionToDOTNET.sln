@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToDOTNET", "IntroductionToDOTNET\IntroductionToDOTNET.csproj", "{156195E3-5253-4616-841C-290C7F5E17E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{E20927C4-BFB6-4CC8-9A30-8C65A3AE4FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156195E3-5253-4616-841C-290C7F5E17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156195E3-5253-4616-841C-290C7F5E17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156195E3-5253-4616-841C-290C7F5E17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156195E3-5253-4616-841C-290C7F5E17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20927C4-BFB6-4CC8-9A30-8C65A3AE4FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20927C4-BFB6-4CC8-9A30-8C65A3AE4FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20927C4-BFB6-4CC8-9A30-8C65A3AE4FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20927C4-BFB6-4CC8-9A30-8C65A3AE4FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB5888D-3D40-451F-ADDD-FCB3741458FC}
+	EndGlobalSection
+EndGlobal
