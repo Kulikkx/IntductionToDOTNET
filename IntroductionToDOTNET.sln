@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geomet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fraction.csproj", "{EDDD6B5C-241C-444D-9C96-11B7BD8E7779}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAME_1", "GAME_1\GAME_1.csproj", "{0D3C62C2-6190-46A6-B155-5910A91A9F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EDDD6B5C-241C-444D-9C96-11B7BD8E7779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDDD6B5C-241C-444D-9C96-11B7BD8E7779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDDD6B5C-241C-444D-9C96-11B7BD8E7779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3C62C2-6190-46A6-B155-5910A91A9F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3C62C2-6190-46A6-B155-5910A91A9F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3C62C2-6190-46A6-B155-5910A91A9F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3C62C2-6190-46A6-B155-5910A91A9F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
