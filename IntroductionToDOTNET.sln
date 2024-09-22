@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAME_1", "GAME_1\GAME_1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_1", "Calculator_1\Calculator_1.csproj", "{48A59C36-0AFC-4BC3-8A2F-35035EE9E87D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incapsulation", "Incapsulation\Incapsulation.csproj", "{2DC31DC8-0C32-4AA0-BB14-69B27B472D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{48A59C36-0AFC-4BC3-8A2F-35035EE9E87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A59C36-0AFC-4BC3-8A2F-35035EE9E87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A59C36-0AFC-4BC3-8A2F-35035EE9E87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC31DC8-0C32-4AA0-BB14-69B27B472D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC31DC8-0C32-4AA0-BB14-69B27B472D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC31DC8-0C32-4AA0-BB14-69B27B472D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC31DC8-0C32-4AA0-BB14-69B27B472D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
