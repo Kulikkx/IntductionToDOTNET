@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.Numerics;
@@ -12,23 +11,23 @@ namespace Factorial
     {
         static void Main(string[] args)
         {
+
             try
-        {
-            Console.Write("Введите число для вычисления факториала: ");
-            int n = Convert.ToInt32(Console.ReadLine());
-            BigInteger f = 1;
-            double f = 1;
-            for (int i = 1; i <= n; i++) 
             {
-                f *= i;
-                Console.WriteLine($"{i}!={f}");
+                Console.Write("Введите число для вычисления факториала: ");
+                int n = Convert.ToInt32(Console.ReadLine());
+                BigInteger f = 1;  // Длинная арифметика
+                for (int i = 1; i <= n; i++)
+                {
+                    f *= i;
+                    Console.WriteLine($"{i}! = {f}"); //интерполяция строк
+                }
             }
-        }
-        catch (Exception ex)  
-        {
-            Console.WriteLine(ex.Message);
-        
-        }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
         }
     }
 }
